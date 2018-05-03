@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/AndyRoush/burger-sequelize/issues"
   },
-  "homepage": "https://github.com/AndyRoush/burger-sequelize#readme"
+  "homepage": "https://github.com/AndyRoush/burger-sequelize#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "method-override": "^2.3.10",
+    "mysql2": "^1.5.3",
+    "sequelize": "^4.37.6"
+  }
 }
