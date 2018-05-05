@@ -1,0 +1,31 @@
+button.submit {
+    position: relative;
+    margin: auto;
+    left: 42%;
+  }
+  
+  form#burgers {
+    margin-top: 50px;
+  }
+  
+  #burgers textarea {
+    resize: none;
+    height: 100px;
+    font-size: 20px;
+    padding: 20px;
+    text-align: justify;
+    text-align-last: center;
+    color: transparent;
+    text-shadow: 0 0 0 black;
+  }
+  
+  body {
+    background-color: rgb(255, 204, 84);
+  }
+  
+  .burger-image {
+    position: relative;
+    left: 36%;
+    width: 300px;
+    height: 250px;
+  }
